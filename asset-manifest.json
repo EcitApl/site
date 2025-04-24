@@ -1,19 +1,27 @@
 {
   "files": {
-    "main.js": "/site/static/js/main.4a9e83ad.js",
+    "main.js": "/site/static/js/main.fd407d8f.js",
+    "static/media/video3.mp4": "/site/static/media/video3.65aa56f956f4a849cf57.mp4",
+    "static/media/video1.mp4": "/site/static/media/video1.69401a4ac0f5544c535e.mp4",
+    "static/media/video2.mp4": "/site/static/media/video2.7390828fbafd4db238f1.mp4",
     "static/media/luan.jpg": "/site/static/media/luan.12558e3cc347a4121c82.jpg",
     "static/media/dayana.jpg": "/site/static/media/dayana.58781bfd6a2a518bbad7.jpg",
     "static/media/APL.png": "/site/static/media/APL.8378b60b4a9cb878d396.png",
     "static/media/virginia.jpg": "/site/static/media/virginia.c49ab24c3c82968b7c0d.jpg",
+    "static/media/flavio2.jpg": "/site/static/media/flavio2.223dff9c709a67926316.jpg",
+    "static/media/flavio3.jpg": "/site/static/media/flavio3.5f60f5ca18f3f168f34f.jpg",
+    "static/media/flavio1.jpg": "/site/static/media/flavio1.66352eadd676c75c227c.jpg",
+    "static/media/flavio4.jpg": "/site/static/media/flavio4.c1a2e1cb9dc40f549eec.jpg",
     "static/media/rosangela.png": "/site/static/media/rosangela.d9994e16c01d22788929.png",
+    "static/media/flavio5.jpg": "/site/static/media/flavio5.a08796db60f8922c6842.jpg",
     "static/media/rangel.jpeg": "/site/static/media/rangel.0bb02fb9eac8bbcc2d3b.jpeg",
     "static/media/ecotec.png": "/site/static/media/ecotec.1ec82fadb7995a4d3877.png",
     "static/media/adriana.jpg": "/site/static/media/adriana.6460bd6fdca513075f2f.jpg",
     "static/media/junina.jpg": "/site/static/media/junina.56323b0ed1c8468be0ac.jpg",
     "index.html": "/site/index.html",
-    "main.4a9e83ad.js.map": "/site/static/js/main.4a9e83ad.js.map"
+    "main.fd407d8f.js.map": "/site/static/js/main.fd407d8f.js.map"
   },
   "entrypoints": [
-    "static/js/main.4a9e83ad.js"
+    "static/js/main.fd407d8f.js"
   ]
 }
