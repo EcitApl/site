@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/site/static/js/main.cc0ea6f2.js",
+    "main.js": "/site/static/js/main.060e0472.js",
     "static/media/video3.mp4": "/site/static/media/video3.65aa56f956f4a849cf57.mp4",
     "static/media/video1.mp4": "/site/static/media/video1.69401a4ac0f5544c535e.mp4",
     "static/media/video2.mp4": "/site/static/media/video2.7390828fbafd4db238f1.mp4",
@@ -19,6 +19,7 @@
     "static/media/flavio5.jpg": "/site/static/media/flavio5.a08796db60f8922c6842.jpg",
     "static/media/rangel.jpeg": "/site/static/media/rangel.0bb02fb9eac8bbcc2d3b.jpeg",
     "static/media/augusto.jpg": "/site/static/media/augusto.c1ead3461588127d14a9.jpg",
+    "static/media/andre.jpg": "/site/static/media/andre.610a5e70842ebb67eff7.jpg",
     "static/media/ecotec.png": "/site/static/media/ecotec.1ec82fadb7995a4d3877.png",
     "static/media/ivania.jpg": "/site/static/media/ivania.e26e95de4f0215c17cf3.jpg",
     "static/media/adriana.jpg": "/site/static/media/adriana.6460bd6fdca513075f2f.jpg",
@@ -27,9 +28,9 @@
     "static/media/junina.jpg": "/site/static/media/junina.56323b0ed1c8468be0ac.jpg",
     "static/media/adalmirene.jpg": "/site/static/media/adalmirene.79f6616010f796b30899.jpg",
     "index.html": "/site/index.html",
-    "main.cc0ea6f2.js.map": "/site/static/js/main.cc0ea6f2.js.map"
+    "main.060e0472.js.map": "/site/static/js/main.060e0472.js.map"
   },
   "entrypoints": [
-    "static/js/main.cc0ea6f2.js"
+    "static/js/main.060e0472.js"
   ]
 }
