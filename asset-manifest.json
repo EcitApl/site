@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/site/static/js/main.e5add7f4.js",
+    "main.js": "/site/static/js/main.269fb4f8.js",
+    "static/media/maisciencia.mp4": "/site/static/media/maisciencia.89c8c4c13b298b88f8c6.mp4",
     "static/media/video3.mp4": "/site/static/media/video3.65aa56f956f4a849cf57.mp4",
     "static/media/video1.mp4": "/site/static/media/video1.69401a4ac0f5544c535e.mp4",
     "static/media/video2.mp4": "/site/static/media/video2.7390828fbafd4db238f1.mp4",
@@ -33,10 +34,11 @@
     "static/media/aecio.jpg": "/site/static/media/aecio.7a065adc0e962fc26d93.jpg",
     "static/media/falcon.jpg": "/site/static/media/falcon.60642577924b5c5217c4.jpg",
     "static/media/junina.jpg": "/site/static/media/junina.56323b0ed1c8468be0ac.jpg",
+    "static/media/isabel.jpg": "/site/static/media/isabel.824cfbdd336b34a864ed.jpg",
     "index.html": "/site/index.html",
-    "main.e5add7f4.js.map": "/site/static/js/main.e5add7f4.js.map"
+    "main.269fb4f8.js.map": "/site/static/js/main.269fb4f8.js.map"
   },
   "entrypoints": [
-    "static/js/main.e5add7f4.js"
+    "static/js/main.269fb4f8.js"
   ]
 }
