@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/site/static/js/main.269fb4f8.js",
+    "main.js": "/site/static/js/main.9328abe5.js",
     "static/media/maisciencia.mp4": "/site/static/media/maisciencia.89c8c4c13b298b88f8c6.mp4",
     "static/media/video3.mp4": "/site/static/media/video3.65aa56f956f4a849cf57.mp4",
     "static/media/video1.mp4": "/site/static/media/video1.69401a4ac0f5544c535e.mp4",
@@ -10,6 +10,7 @@
     "static/media/kaline.png": "/site/static/media/kaline.487b915f7d8ea198b66c.png",
     "static/media/janailma.jpg": "/site/static/media/janailma.2dbf38df7e69faf82f85.jpg",
     "static/media/APL.png": "/site/static/media/APL.8378b60b4a9cb878d396.png",
+    "static/media/noitaro.jpeg": "/site/static/media/noitaro.50b22072229ca4a37284.jpeg",
     "static/media/valdeci.jpg": "/site/static/media/valdeci.314cbff5b41175474f37.jpg",
     "static/media/virginia.jpg": "/site/static/media/virginia.c49ab24c3c82968b7c0d.jpg",
     "static/media/flavio2.jpg": "/site/static/media/flavio2.223dff9c709a67926316.jpg",
@@ -27,7 +28,6 @@
     "static/media/andre.jpg": "/site/static/media/andre.610a5e70842ebb67eff7.jpg",
     "static/media/beneilto.jpg": "/site/static/media/beneilto.11b394956e528ad7fa5c.jpg",
     "static/media/suenia.jpg": "/site/static/media/suenia.4d53c995ff986007f228.jpg",
-    "static/media/ecotec.png": "/site/static/media/ecotec.1ec82fadb7995a4d3877.png",
     "static/media/ivania.jpg": "/site/static/media/ivania.e26e95de4f0215c17cf3.jpg",
     "static/media/adriana.jpg": "/site/static/media/adriana.6460bd6fdca513075f2f.jpg",
     "static/media/rita.jpg": "/site/static/media/rita.8874d8b0bbc04ee88cc9.jpg",
@@ -36,9 +36,9 @@
     "static/media/junina.jpg": "/site/static/media/junina.56323b0ed1c8468be0ac.jpg",
     "static/media/isabel.jpg": "/site/static/media/isabel.824cfbdd336b34a864ed.jpg",
     "index.html": "/site/index.html",
-    "main.269fb4f8.js.map": "/site/static/js/main.269fb4f8.js.map"
+    "main.9328abe5.js.map": "/site/static/js/main.9328abe5.js.map"
   },
   "entrypoints": [
-    "static/js/main.269fb4f8.js"
+    "static/js/main.9328abe5.js"
   ]
 }
